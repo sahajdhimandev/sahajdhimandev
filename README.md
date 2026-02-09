@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sahaj 👋
 
-<!--
-**sahajdhimandev/sahajdhimandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder • Developer • Problem Solver
 
-Here are some ideas to get you started:
+I’m building **AirVista** – a professional air quality platform focused on India first and global next.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+- Real-time AQI monitoring
+- Health-focused insights for asthma & travelers
+- City comparison & pollution trends
+- Scalable backend in Java
+- Clean professional web experience
+
+## Tech Stack
+- Java / Spring Boot  
+- JavaScript  
+- MySQL  
+- APIs & Data Visualization  
+- Cloud Deployment
+
+## Mission
+Use technology to improve public health and environmental awareness in India.
+
+---
+*Not a college project. A real product for real people.*
